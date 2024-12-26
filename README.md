@@ -1,5 +1,3 @@
-# Pi-Snake-Game
-A creative Snake game that combines classic gameplay with Pi (π) memorization. Players collect numbers in the correct order of Pi while having fun! Built with Python and Pygame.
 # Pi Snake Game 圓周率貪吃蛇遊戲
 
 這是一個創新的貪吃蛇遊戲，結合了傳統貪吃蛇玩法與圓周率記憶學習。玩家通過控制蛇的移動來收集正確順序的圓周率數字，既能享受遊戲樂趣，又能學習圓周率。
